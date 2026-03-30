@@ -33,8 +33,7 @@ def update_student(students, name, new_student=None, status=None):
     """ update name of students"""
 # we first search if the product exist using the function below 
     coder = search_student(students, name)  
-    if coder is not search_student:
-        print(" student no found")
+    if coder:
         # if the user put on a new student, we change it
         if new_student is not None:
             coder['name'] = new_student
