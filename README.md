@@ -11,12 +11,12 @@ Conditional Logic and Flow Control: * Use of try-except blocks for data type val
 
 ## Implemented Python functions
 
-1.input(): To capture the information write by the user
-2. float():To convert the input in ID to a float number 
-4. print(): To show the messages or any script error on consola 
-5. try, except: To verify invalid data 
-6. enumerate() and string formatting for aligned and better organized tables.
-7. use of functions definy with "def" to organize the code in a reusable manner
+1. input(): To capture the information write by the user
+2. float():To convert the input in ID to a float number
+3.print(): To show the messages or any script error on consola 
+4. try, except: To verify invalid data
+5. inumerate() and string formatting for aligned and better organized tables.
+6. use of functions definy with "def" to organize the code in a reusable manner
 
 ## logic the save csv 
 
