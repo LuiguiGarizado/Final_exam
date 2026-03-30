@@ -18,7 +18,7 @@ Conditional Logic and Flow Control: * Use of try-except blocks for data type val
 5. inumerate() and string formatting for aligned and better organized tables.
 6. use of functions definy with "def" to organize the code in a reusable manner
 
-## logic the save csv 
+## logic about save csv 
 
 The function save csv (option 6) which offers two modes: Replace: clear the students data and replace it. Merge: compare name of the students, add to the stock and update the information added if needed.
 
